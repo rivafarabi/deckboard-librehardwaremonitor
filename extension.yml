@@ -1,0 +1,7 @@
+name: Libre Hardware Monitor
+package: libre-hardware-monitor
+version: 1.0.0
+description: Display hardware status from Libre Hardware Monitor on Deckboard button
+author: Riva Farabi
+license: MIT
+repository: "https://github.com/rivafarabi/deckboard-librehardwaremonitor"

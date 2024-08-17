@@ -1,0 +1,16 @@
+{
+    "name": "dekboard-librehardwaremonitor",
+    "version": "1.0.0",
+    "description": "Display hardware status from Libre Hardware Monitor on Deckboard button",
+    "main": "index.js",
+    "scripts": {
+        "build": "deckboard-kit --build",
+        "install": "deckboard-kit --install"
+    },
+    "author": "Riva Farabi",
+    "license": "MIT",
+    "dependencies": {
+        "deckboard-kit": "^0.3.0",
+        "node-wmi": "0.0.5"
+    }
+}
